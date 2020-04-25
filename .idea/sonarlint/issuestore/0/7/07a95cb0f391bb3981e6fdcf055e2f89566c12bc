@@ -1,0 +1,5 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®âˆÏ8Í•ş˜.
+š
+java:S1319"xThe type of the "guruArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(—š¢±ıÿÿÿÿ8Í•ş˜.

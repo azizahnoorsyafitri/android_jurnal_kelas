@@ -1,0 +1,6 @@
+
+z	java:S116"YRename this field "_listDataChild" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϋ…†«όÿÿÿÿ8°‘Ζ™.
+’
+java:S1319"uThe type of the "listChildData" object should be an interface such as "Map" rather than the implementation "HashMap".(„Έ’Ά8°‘Ζ™.
+t	java:S116"SRename this field "_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϊ§Πώÿÿÿÿ8°‘Ζ™.
+{	java:S116"ZRename this field "_listDataHeader" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥…ªόÿÿÿÿ8°‘Ζ™.

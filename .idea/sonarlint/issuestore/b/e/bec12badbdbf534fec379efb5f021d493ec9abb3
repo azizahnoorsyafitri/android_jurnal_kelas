@@ -1,0 +1,13 @@
+
+H
+java:S16599"&Declare "tvAlamat" on a separate line.(õöÎÂÿÿÿÿÿ8øöü˜.
+
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††8ÉË¦ü˜.
+
+java:S1319"sThe type of the "dataList" object should be an interface such as "List" rather than the implementation "ArrayList".(£ĞŸĞ8‹Åúû˜.
+M
+java:S16599"+Declare "tvNamaLengkap" on a separate line.(õöÎÂÿÿÿÿÿ8øöü˜.
+J
+java:S16599"(Declare "tvMengajar" on a separate line.(õöÎÂÿÿÿÿÿ8Éº ü˜.
+G
+java:S16599"%Declare "tvEmail" on a separate line.(õöÎÂÿÿÿÿÿ8øöü˜.

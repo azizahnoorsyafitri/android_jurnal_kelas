@@ -1,0 +1,33 @@
+
+x
+java:S1488]"[Immediately return this expression instead of assigning it to the temporary variable "url".(Ðåþò8¬¶÷ã—.
+Y	java:S125ˆ"<This block of commented-out lines of code should be removed.(æ¬Îˆ8¬¶÷ã—.
+E
+java:S1148~"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬¶÷ã—.
+c
+java:S1128%"ARemove this unused import 'java.security.KeyManagementException'.(ë¢ö§ýÿÿÿÿ8Òä¿þ˜.
+Y
+java:S1128&"<Remove this unused import 'java.security.KeyStoreException'.(Ë¾¬œ8Òä¿þ˜.
+f
+java:S1128("DRemove this unused import 'java.security.cert.CertificateException'.(èÙ¿ùÿÿÿÿ8Òä¿þ˜.
+e
+java:S1128'"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾þÿÿÿÿ8Òä¿þ˜.
+Y	java:S125"<This block of commented-out lines of code should be removed.(¶ß–ó8¬¶÷ã—.
+M
+java:S1068E"+Remove this unused "mMyTask" private field.(ïº¯èúÿÿÿÿ8¬¶÷ã—.
+^	java:S125ƒ"<This block of commented-out lines of code should be removed.(òõÜÚùÿÿÿÿ8¬¶÷ã—.
+i
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "LOGIN" 5 times.(¶óØÓþÿÿÿÿ8¬¶÷ã—.
+F
+java:S1148ø"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬¶÷ã—.
+^	java:S125È"<This block of commented-out lines of code should be removed.(ÜŸúûþÿÿÿÿ8¬¶÷ã—.
+g
+java:S1854‹"DRemove this useless assignment to local variable "imageInternalUri".(Üßùÿøÿÿÿÿ8¬¶÷ã—.
+y
+java:S1488ó"[Immediately return this expression instead of assigning it to the temporary variable "bmp".(°ÆÄÙ8¬¶÷ã—.
+^	java:S125”"<This block of commented-out lines of code should be removed.(÷¦êüÿÿÿÿ8¬¶÷ã—.
+M
+java:S2093Ñ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¬¶÷ã—.
+]	java:S1254"<This block of commented-out lines of code should be removed.(¡öý‚úÿÿÿÿ8Íèúã—.
+E
+java:S1148`"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¬¶÷ã—.

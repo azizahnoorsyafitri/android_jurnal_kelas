@@ -1,0 +1,16 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Τ€¦Ούÿÿÿÿ
+e
+java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ςΝΎώÿÿÿÿ8Κάσύ.
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Κ‰θ8Κάσύ.
+f
+java:S1128	"DRemove this unused import 'java.security.cert.CertificateException'.(θΩΏωÿÿÿÿ8Κάσύ.
+c
+java:S1128"ARemove this unused import 'java.security.KeyManagementException'.(λΆφ§ύÿÿÿÿ8Κάσύ.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªΊ»Ϊύÿÿÿÿ8Κάσύ.
+Y
+java:S1128"<Remove this unused import 'java.security.KeyStoreException'.(ΛΎ¬8Κάσύ.
+V	java:S125"<This block of commented-out lines of code should be removed.(―¥Είώÿÿÿÿ

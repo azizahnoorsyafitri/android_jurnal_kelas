@@ -1,0 +1,8 @@
+
+o	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÒü›ÿÿÿÿÿ8³Ğõû˜.
+x	java:S116"WRename this field "nama_lengkap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÌùÕÿÿÿÿÿ8†¡æû˜.
+u	java:S116	"TRename this field "kode_guru" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ûû¸şÿÿÿÿ8èÖ‹ü˜.
+o	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æü¢ûÿÿÿÿ8³Ğõû˜.
+b	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(¬ÁõÂüÿÿÿÿ8Éú„™.
+i	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ’¢T8³Ğõû˜.
+j	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(––à’8³Ğõû˜.
